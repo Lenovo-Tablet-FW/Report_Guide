@@ -2,7 +2,7 @@
 
 > 参考[官方说明链接](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Test-reports)。
 
-直接在代码根目录执行
+也可直接在代码根目录执行
 ```
 ./gradlew connectedAndroidTest --info
 ```
